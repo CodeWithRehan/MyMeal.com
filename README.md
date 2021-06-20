@@ -1,3 +1,3 @@
-# My First Ever Project
+# My First Project
 
 Enjoy The Meal
